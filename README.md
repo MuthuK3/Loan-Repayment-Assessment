@@ -1,4 +1,7 @@
 # Loan-Repayment-Assessment
+
+https://github.com/MuthuK3/Loan-Repayment-Assessment.git
+
 ## Overview
 
 This project focuses on predicting whether a loan applicant will repay or default on a loan. It utilizes machine learning techniques and a dataset containing information about loan applicants, including their employment history, credit score, and loan status.
